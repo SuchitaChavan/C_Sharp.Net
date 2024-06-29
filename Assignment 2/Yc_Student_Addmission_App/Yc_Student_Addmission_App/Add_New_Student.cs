@@ -110,7 +110,7 @@ namespace Yc_Student_Addmission_App
         {
             S_Con_Open();
 
-            if(tb_Roll_No.Text != " " && tb_Name.Text != " " && tb_Mobile_No.Text != " " && cmb_Course.Text != " ")
+            if(tb_Roll_No.Text != "" && tb_Name.Text != "" && tb_Mobile_No.Text != "" && cmb_Course.Text != "")
             {
                 SqlCommand Cmd = new SqlCommand();
 
