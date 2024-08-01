@@ -1,0 +1,10 @@
+D:\C# assigment\Employee_General_Details\Employee_General_Details\bin\Debug\Employee_General_Details.exe.config
+D:\C# assigment\Employee_General_Details\Employee_General_Details\bin\Debug\Employee_General_Details.exe
+D:\C# assigment\Employee_General_Details\Employee_General_Details\bin\Debug\Employee_General_Details.pdb
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.csproj.AssemblyReference.cache
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.frm_Employee_General_Details.resources
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.Properties.Resources.resources
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.csproj.GenerateResource.cache
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.csproj.CoreCompileInputs.cache
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.exe
+D:\C# assigment\Employee_General_Details\Employee_General_Details\obj\Debug\Employee_General_Details.pdb
