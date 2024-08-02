@@ -1,0 +1,11 @@
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\bin\Debug\Picture_Box_Assignment.exe.config
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\bin\Debug\Picture_Box_Assignment.exe
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\bin\Debug\Picture_Box_Assignment.pdb
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.csproj.AssemblyReference.cache
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.frm_Insert_Image.resources
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.frm_Show_Image.resources
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.Properties.Resources.resources
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.csproj.GenerateResource.cache
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.csproj.CoreCompileInputs.cache
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.exe
+D:\C# assigment\Picture_Box_Assignment\Picture_Box_Assignment\obj\Debug\Picture_Box_Assignment.pdb
